@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://goitacademy.github.io/YekaterinaPavlenko/HellEn",
+  "homepage": "https:///YekaterinaPavlenko/HellEn",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html",
-    "predeploy": "npm run build -- --public-url='/YekaterinaPavlenko/HellEn/'",
+    "predeploy": "npm run build -- --public-url=/HellEn/",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
