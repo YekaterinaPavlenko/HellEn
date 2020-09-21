@@ -26,7 +26,7 @@ html {
 
 body {
   max-width: 1680px;
-  margin: 0;
+  margin: 0 auto;
   background-color: #ffffff;
   color: #b9b9b9;
   font-family: "Montserrat", sans-serif;
@@ -1338,8 +1338,8 @@ ul {
     display: block;
     width: 760px;
     height: 502px;
-    top: -65%;
-    left: -20%;
+    top: -284px;
+    left: -178px;
     background-image: url("/programm-img-desktop.8ac9cf22.jpg");
   }
 }
@@ -1710,6 +1710,9 @@ ul {
   .vector {
     height: 25px;
   }
+}
+.vector-color {
+  color: #ff6b09;
 }
 
 .icon-fire {
